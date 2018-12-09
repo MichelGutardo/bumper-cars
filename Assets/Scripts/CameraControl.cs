@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Camera : MonoBehaviour {
+public class CameraControl : MonoBehaviour {
 
 	static public Transform player;
 	public bool locked;
